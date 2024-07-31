@@ -12,8 +12,8 @@ android {
         applicationId = "com.adi121.bat_superhero_man_wallpaper"
         minSdk = 24
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.1.1"
+        versionCode = 3
+        versionName = "1.0.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
